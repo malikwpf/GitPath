@@ -11,5 +11,11 @@ namespace GitAppTry
         public string? Summary { get; set; }
 
         public int Degrees { get; set; }
+<<<<<<< Updated upstream
+        public int Frequency { get; set; }
+=======
+
+        public string Names { get; set; }
+>>>>>>> Stashed changes
     }
 }
