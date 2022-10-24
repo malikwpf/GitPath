@@ -10,6 +10,6 @@ namespace GitAppTry
 
         public string? Summary { get; set; }
 
-        public int MyProperty { get; set; }
+        public int Super{ get; set; }
     }
 }
