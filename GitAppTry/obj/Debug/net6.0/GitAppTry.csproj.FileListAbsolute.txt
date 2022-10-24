@@ -1,0 +1,7 @@
+E:\Path\ComputerScience\Programming\Commandline&git\Git\Tutorialspoint\AppsToTryOn\GitAppTry\GitAppTry\obj\Debug\net6.0\GitAppTry.csproj.AssemblyReference.cache
+E:\Path\ComputerScience\Programming\Commandline&git\Git\Tutorialspoint\AppsToTryOn\GitAppTry\GitAppTry\obj\Debug\net6.0\GitAppTry.GeneratedMSBuildEditorConfig.editorconfig
+E:\Path\ComputerScience\Programming\Commandline&git\Git\Tutorialspoint\AppsToTryOn\GitAppTry\GitAppTry\obj\Debug\net6.0\GitAppTry.AssemblyInfoInputs.cache
+E:\Path\ComputerScience\Programming\Commandline&git\Git\Tutorialspoint\AppsToTryOn\GitAppTry\GitAppTry\obj\Debug\net6.0\GitAppTry.AssemblyInfo.cs
+E:\Path\ComputerScience\Programming\Commandline&git\Git\Tutorialspoint\AppsToTryOn\GitAppTry\GitAppTry\obj\Debug\net6.0\GitAppTry.csproj.CoreCompileInputs.cache
+E:\Path\ComputerScience\Programming\Commandline&git\Git\Tutorialspoint\AppsToTryOn\GitAppTry\GitAppTry\obj\Debug\net6.0\GitAppTry.MvcApplicationPartsAssemblyInfo.cs
+E:\Path\ComputerScience\Programming\Commandline&git\Git\Tutorialspoint\AppsToTryOn\GitAppTry\GitAppTry\obj\Debug\net6.0\GitAppTry.MvcApplicationPartsAssemblyInfo.cache
