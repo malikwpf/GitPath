@@ -11,5 +11,6 @@ namespace GitAppTry
         public string? Summary { get; set; }
 
         public int Super{ get; set; }
+        public int Patch { get; set; }
     }
 }
