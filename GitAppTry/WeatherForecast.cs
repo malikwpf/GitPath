@@ -11,5 +11,7 @@ namespace GitAppTry
         public string? Summary { get; set; }
 
         public int Degrees { get; set; }
+
+        public string Names { get; set; }
     }
 }
