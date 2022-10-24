@@ -13,7 +13,12 @@ namespace GitAppTry
         public int Degrees { get; set; }
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         public int Frequency { get; set; }
+=======
+
+        public string Names { get; set; }
+>>>>>>> Stashed changes
 =======
 
         public string Names { get; set; }
